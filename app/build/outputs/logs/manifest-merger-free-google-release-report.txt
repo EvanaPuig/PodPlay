@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1cc980b546aad733c19efeaca8d00a1/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/0ac81ce6399a72a60a4874a48faad71d/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f0733dd2008665c8f53633b597920549/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/e46f9ef3995b18808769aa51e03d6a8a/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/0b4abb1999b504a9ccdf16a6aeb408d8/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d73e16130781fa3f83e0aa213e9638d7/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/22f276348879eb43ec3dbb4298728b99/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c39808416ffe230ebee19ef4917159b5/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/bed2795123673dcaf409fbbad253b14c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2e913fa2d9dec37d902e3419c5bd10a4/media-1.3.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2b4f9d1364cda13b7251ed4d1cac6dd4/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ca6cb9c00ba691c36914d513161b573f/work-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:17:1-143:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.play:core-ktx:1.8.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/8699c0538f85301ba09c9e1a6c5248cf/jetified-core-ktx-1.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/82c7871dc92a9fa0ff25ac933526bd8b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c7bc9c25cc0bc0b184e3846f514035ca/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/ff5badbf4f293d60fcbb1617b0b8107e/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/a21ceddaa2c7eefd25716ef66622972c/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/9f085b4c5ace705a061562083e7631fe/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/9e0b5f523de90c039ad26f4fa531c679/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/52c2c58b774eb144a3435796739f260a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/66b91f570b5d2ce8af662d954321a6d3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/03aa5b723e5869bfb2d4242f24aac107/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5721b81cff49d44781c2c4478ff5deeb/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/980be82b1c9dcf4af29c5d17de7d65d8/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f4d2750c7e4c259a7b1868849b01336f/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f26108e3e768c9f1655656ab0719c0d4/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6c40188b17a20d0a0b47ee91c75af5ea/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/b38a4c0334a20f9f2cb77b53a8b71701/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5fb1aa7b6a65881acfc4cf70ebffa12e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6daefba1430d4987b66dea826eb2b839/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/de487bca11fbabea48056ae51a60ccbd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/991b0516aee401381739d6548481605b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6446666f8577c18012711c2f57530d26/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/abcd18a7378597488f054d25f03fc1ef/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/479d4311df440b865a35e11ae420994b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6133601118baf7ce74ac0a8bc7422520/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ccc1d316aaa60b6f2ad0332466725e37/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8101e7b92fdabf755a428eb9c5e5d4ec/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/43404624b6bd9803012ad40ab721bc4b/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/c604bbce71469635e4a54ff1a63db8d3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/0d80f964913337fe2b36ee89bef68454/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6631310c57563a7cb3029ce2f2216cd6/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d8c328f6a96dfebe103668559efa358e/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/aaab261cdcf286374270d240e1dbda02/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e1966ac25a815504b20a209209cc29f0/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1af09fb83f02c84112cd676c477e7fc/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/68764d1bc4edfd3f0fe5ef940503b81e/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/47c98d4ca579847e71668c5620465a3d/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/97619abb265e872c5efc70cfc1a0b48b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/7c7b35bbcf1654e8e8187a04b6cf78c8/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/4161f8121cf975e44e018dc3c1f0f098/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/11dec527fdc6347c4d6a42bffc6503c9/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e5aa20899b89f0975401a2c427907cad/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e8f0acaae729b565a4d0fca4d2eda0f0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/206946c601b727d48743560e516a422f/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:4:3-38
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:3:3-59
+	android:versionCode
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:6:3-41:17
+MERGED from [com.google.android.material:material:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1cc980b546aad733c19efeaca8d00a1/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1cc980b546aad733c19efeaca8d00a1/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/0ac81ce6399a72a60a4874a48faad71d/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/0ac81ce6399a72a60a4874a48faad71d/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.play:core-ktx:1.8.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/8699c0538f85301ba09c9e1a6c5248cf/jetified-core-ktx-1.8.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:core-ktx:1.8.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/8699c0538f85301ba09c9e1a6c5248cf/jetified-core-ktx-1.8.1/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c7bc9c25cc0bc0b184e3846f514035ca/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c7bc9c25cc0bc0b184e3846f514035ca/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:10:3-21:17
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:10:3-21:17
+MERGED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6631310c57563a7cb3029ce2f2216cd6/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6631310c57563a7cb3029ce2f2216cd6/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e1966ac25a815504b20a209209cc29f0/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e1966ac25a815504b20a209209cc29f0/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:11:5-31
+	android:label
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:9:5-37
+	android:roundIcon
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:10:5-50
+	android:icon
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:8:5-39
+	android:allowBackup
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:7:5-31
+	android:theme
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:12:5-36
+	android:usesCleartextTraffic
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:13:5-40
+activity#com.raywenderlich.podplay.ui.PodcastActivity
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:14:5-28:16
+	android:launchMode
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:16:7-37
+	android:theme
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:17:7-50
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:15:7-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEARCH+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:18:7-23:23
+action#android.intent.action.MAIN
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:19:17-58
+action#android.intent.action.SEARCH
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:20:17-60
+category#android.intent.category.LAUNCHER
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:22:19-66
+meta-data#android.app.searchable
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:25:7-27:46
+	android:resource
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:26:9-46
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:30:5-34:16
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:30:15-72
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:31:7-33:23
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:32:17-66
+service#com.raywenderlich.podplay.service.PodplayMediaService
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:36:5-40:15
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:36:14-57
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:37:7-39:23
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:38:17-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:43:3-75
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:28:5-77
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:8:3-74
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:43:20-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:44:3-66
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:44:20-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:45:3-65
+	android:name
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml:45:20-62
+uses-sdk
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1cc980b546aad733c19efeaca8d00a1/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1cc980b546aad733c19efeaca8d00a1/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/0ac81ce6399a72a60a4874a48faad71d/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/0ac81ce6399a72a60a4874a48faad71d/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f0733dd2008665c8f53633b597920549/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f0733dd2008665c8f53633b597920549/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/e46f9ef3995b18808769aa51e03d6a8a/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/e46f9ef3995b18808769aa51e03d6a8a/jetified-fragment-ktx-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/0b4abb1999b504a9ccdf16a6aeb408d8/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/0b4abb1999b504a9ccdf16a6aeb408d8/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d73e16130781fa3f83e0aa213e9638d7/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d73e16130781fa3f83e0aa213e9638d7/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/22f276348879eb43ec3dbb4298728b99/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/22f276348879eb43ec3dbb4298728b99/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c39808416ffe230ebee19ef4917159b5/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c39808416ffe230ebee19ef4917159b5/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/bed2795123673dcaf409fbbad253b14c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/bed2795123673dcaf409fbbad253b14c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2e913fa2d9dec37d902e3419c5bd10a4/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2e913fa2d9dec37d902e3419c5bd10a4/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2b4f9d1364cda13b7251ed4d1cac6dd4/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2b4f9d1364cda13b7251ed4d1cac6dd4/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ca6cb9c00ba691c36914d513161b573f/work-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ca6cb9c00ba691c36914d513161b573f/work-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:core-ktx:1.8.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/8699c0538f85301ba09c9e1a6c5248cf/jetified-core-ktx-1.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.play:core-ktx:1.8.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/8699c0538f85301ba09c9e1a6c5248cf/jetified-core-ktx-1.8.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/82c7871dc92a9fa0ff25ac933526bd8b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/82c7871dc92a9fa0ff25ac933526bd8b/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c7bc9c25cc0bc0b184e3846f514035ca/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/c7bc9c25cc0bc0b184e3846f514035ca/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:4:3-70
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/ff5badbf4f293d60fcbb1617b0b8107e/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/ff5badbf4f293d60fcbb1617b0b8107e/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/a21ceddaa2c7eefd25716ef66622972c/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/a21ceddaa2c7eefd25716ef66622972c/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/9f085b4c5ace705a061562083e7631fe/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/evana/.gradle/caches/transforms-2/files-2.1/9f085b4c5ace705a061562083e7631fe/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/9e0b5f523de90c039ad26f4fa531c679/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/evana/.gradle/caches/transforms-2/files-2.1/9e0b5f523de90c039ad26f4fa531c679/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/52c2c58b774eb144a3435796739f260a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/52c2c58b774eb144a3435796739f260a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/66b91f570b5d2ce8af662d954321a6d3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/66b91f570b5d2ce8af662d954321a6d3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/03aa5b723e5869bfb2d4242f24aac107/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/03aa5b723e5869bfb2d4242f24aac107/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5721b81cff49d44781c2c4478ff5deeb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5721b81cff49d44781c2c4478ff5deeb/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/980be82b1c9dcf4af29c5d17de7d65d8/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/980be82b1c9dcf4af29c5d17de7d65d8/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f4d2750c7e4c259a7b1868849b01336f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f4d2750c7e4c259a7b1868849b01336f/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f26108e3e768c9f1655656ab0719c0d4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f26108e3e768c9f1655656ab0719c0d4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6c40188b17a20d0a0b47ee91c75af5ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6c40188b17a20d0a0b47ee91c75af5ea/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/b38a4c0334a20f9f2cb77b53a8b71701/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/b38a4c0334a20f9f2cb77b53a8b71701/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5fb1aa7b6a65881acfc4cf70ebffa12e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/5fb1aa7b6a65881acfc4cf70ebffa12e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6daefba1430d4987b66dea826eb2b839/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6daefba1430d4987b66dea826eb2b839/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/de487bca11fbabea48056ae51a60ccbd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/de487bca11fbabea48056ae51a60ccbd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/991b0516aee401381739d6548481605b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/991b0516aee401381739d6548481605b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6446666f8577c18012711c2f57530d26/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/6446666f8577c18012711c2f57530d26/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/abcd18a7378597488f054d25f03fc1ef/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/abcd18a7378597488f054d25f03fc1ef/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/2035b8ef85a6eac2fc4525b65dd8dd0d/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/479d4311df440b865a35e11ae420994b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/479d4311df440b865a35e11ae420994b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6133601118baf7ce74ac0a8bc7422520/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6133601118baf7ce74ac0a8bc7422520/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ccc1d316aaa60b6f2ad0332466725e37/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/ccc1d316aaa60b6f2ad0332466725e37/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8101e7b92fdabf755a428eb9c5e5d4ec/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8101e7b92fdabf755a428eb9c5e5d4ec/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/43404624b6bd9803012ad40ab721bc4b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/43404624b6bd9803012ad40ab721bc4b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/c604bbce71469635e4a54ff1a63db8d3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/c604bbce71469635e4a54ff1a63db8d3/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/0d80f964913337fe2b36ee89bef68454/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/0d80f964913337fe2b36ee89bef68454/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6631310c57563a7cb3029ce2f2216cd6/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/6631310c57563a7cb3029ce2f2216cd6/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d8c328f6a96dfebe103668559efa358e/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d8c328f6a96dfebe103668559efa358e/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/aaab261cdcf286374270d240e1dbda02/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/aaab261cdcf286374270d240e1dbda02/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e1966ac25a815504b20a209209cc29f0/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e1966ac25a815504b20a209209cc29f0/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1af09fb83f02c84112cd676c477e7fc/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/f1af09fb83f02c84112cd676c477e7fc/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/68764d1bc4edfd3f0fe5ef940503b81e/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/68764d1bc4edfd3f0fe5ef940503b81e/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/47c98d4ca579847e71668c5620465a3d/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/47c98d4ca579847e71668c5620465a3d/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/97619abb265e872c5efc70cfc1a0b48b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/97619abb265e872c5efc70cfc1a0b48b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/7c7b35bbcf1654e8e8187a04b6cf78c8/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/7c7b35bbcf1654e8e8187a04b6cf78c8/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/4161f8121cf975e44e018dc3c1f0f098/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/4161f8121cf975e44e018dc3c1f0f098/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/11dec527fdc6347c4d6a42bffc6503c9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/11dec527fdc6347c4d6a42bffc6503c9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e5aa20899b89f0975401a2c427907cad/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e5aa20899b89f0975401a2c427907cad/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e8f0acaae729b565a4d0fca4d2eda0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/e8f0acaae729b565a4d0fca4d2eda0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/206946c601b727d48743560e516a422f/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/206946c601b727d48743560e516a422f/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/evana/Documents/Personal/Freelance/RW/PAPS/Repos/paps-materials/10-automation-tools-for-your-local-environment/projects/final/PodPlay/app/src/main/AndroidManifest.xml
+queries
+ADDED from [androidx.media:media:1.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2e913fa2d9dec37d902e3419c5bd10a4/media-1.3.1/AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] /Users/evana/.gradle/caches/transforms-2/files-2.1/2e913fa2d9dec37d902e3419c5bd10a4/media-1.3.1/AndroidManifest.xml:25:9-27:18
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.5.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/8482d3e4a7482e8df0503ffc5e30f367/work-runtime-2.5.0/AndroidManifest.xml:138:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/84c525f529f450447bdadfaeb1aa8270/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:16:5-18:15
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:16:14-95
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:17:7-108
+	android:value
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:17:85-106
+	android:name
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:17:18-84
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:19:5-147
+	android:enabled
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:19:97-120
+	android:exported
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:19:121-145
+	android:name
+		ADDED from [com.google.android.play:core:1.10.0] /Users/evana/.gradle/caches/transforms-2/files-2.1/d540755cd479312316ee67fd554c2165/jetified-core-1.10.0/AndroidManifest.xml:19:14-96
