@@ -84,27 +84,17 @@
     <orderEntry type="module-library">
       <library name="Gradle: kaptGeneratedClasses">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleDebugUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleQa" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonDebug" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleDebug" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleRelease" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleDebugAndroidTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonDebugAndroidTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleReleaseUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleRelease" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleQa" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullGoogleQaUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonQaUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonQa" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleDebugAndroidTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleDebugUnitTest" />
           <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleDebug" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonDebugUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleQaUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleReleaseUnitTest" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonRelease" />
-          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/fullAmazonReleaseUnitTest" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: kaptGeneratedTestClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleDebugUnitTest" />
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/freeGoogleDebugAndroidTest" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
