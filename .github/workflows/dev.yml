@@ -36,7 +36,7 @@ jobs:
     runs-on: macos-latest
     steps: #1
       - name: Run a log message #2
-        run: echo This is my test job! #3
+        run: echo This is my job for running tests! #3
 
       - uses: actions/checkout@v2
 
