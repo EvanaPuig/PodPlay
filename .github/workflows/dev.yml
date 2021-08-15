@@ -31,3 +31,14 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+  test:
+    runs-on: macos-latest
+    steps: #1
+      - name: Run a log message #2
+        run: echo This is my test job! #3
+
+      - uses: actions/checkout@v2
+
+      - name: Unit tests
+        run: ./gradlew test
